@@ -91,7 +91,7 @@ https://forum.huawei.com/enterprise/en/five-levels-to-know-machine-learning-algo
 ](https://forum.huawei.com/enterprise/en/data/attachment/forum/202101/25/195307umpen4eayawnz0xf.png?Differences%20between%20machine%20learning%20algorithms%20and%20traditional%20rule-based%20algorithms.PNG)
 
 **Machine learning can deal with:**
-- **assification:** computer program needs to specify which of the k categories some input belongs to. To accomplish this task, learning algorithms usually output a function 𝑓:𝑅^𝑛 → (1,2,…,𝑘). For example, the image classification algorithm in computer vision is developed to handle classification tasks
+- **Classification:** computer program needs to specify which of the k categories some input belongs to. To accomplish this task, learning algorithms usually output a function 𝑓:𝑅^𝑛 → (1,2,…,𝑘). For example, the image classification algorithm in computer vision is developed to handle classification tasks
 - **Regression:** For this type of task, a computer program predicts the output for the given input. Learning algorithms typically output a function 𝑓:𝑅^𝑛 → 𝑅. An example of this task type is to predict the claim amount of an insured person (to set the insurance premium) or predict the security price
 - **lustering:** A large amount of data from an unlabeled dataset is divided into multiple categories according to internal similarity of the data. Data in the same category is more similar than that in different categories. This feature can be used in scenarios such as image retrieval and user profile management
 
